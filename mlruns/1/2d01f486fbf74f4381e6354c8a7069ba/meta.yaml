@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lrae/code/lorcanrae/TaxiFareModel/mlruns/1/2d01f486fbf74f4381e6354c8a7069ba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 2d01f486fbf74f4381e6354c8a7069ba
+run_uuid: 2d01f486fbf74f4381e6354c8a7069ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654005071982
+status: 1
+tags: []
+user_id: unknown
